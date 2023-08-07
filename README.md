@@ -10,7 +10,7 @@ A classic Tic Tac Toe game built using React Native, allowing users to enjoy the
 
 ## Screenshots
 <img width="197" alt="image" src="https://github.com/Myself-Ikram/TicTacToe/assets/97652328/05f0154c-192d-40e5-b01d-d1422da722ba">
-<img width="197" alt="image src="https://github.com/Myself-Ikram/TicTacToe/assets/97652328/2f8b7a56-3b81-4957-9910-5bc9ec13481a">
+<img width="197" alt="image" src="https://github.com/Myself-Ikram/TicTacToe/assets/97652328/2f8b7a56-3b81-4957-9910-5bc9ec13481a">
 
 
 
