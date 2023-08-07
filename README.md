@@ -9,7 +9,9 @@ A classic Tic Tac Toe game built using React Native, allowing users to enjoy the
 - Option to start a new game after completion
 
 ## Screenshots
-<img width="197" alt="image" src="https://github.com/Myself-Ikram/TicTacToe/assets/97652328/05f0154c-192d-40e5-b01d-d1422da722ba"><br/>
+<div>
+  <img width="197" alt="image" src="https://github.com/Myself-Ikram/TicTacToe/assets/97652328/05f0154c-192d-40e5-b01d-d1422da722ba">
+</div>
 <img width="197" alt="image" src="https://github.com/Myself-Ikram/TicTacToe/assets/97652328/2f8b7a56-3b81-4957-9910-5bc9ec13481a">
 <img width="197" alt="image" src="https://github.com/Myself-Ikram/TicTacToe/assets/97652328/700ed1f4-4f5b-446d-a169-f7de76245192">
 <img width="197" alt="image" src="https://github.com/Myself-Ikram/TicTacToe/assets/97652328/c6cf0f88-2416-4e63-8fea-07dcdea2d543">
