@@ -20,9 +20,8 @@ A classic Tic Tac Toe game built using React Native, allowing users to enjoy the
 <img width="197" alt="image" src="https://github.com/Myself-Ikram/TicTacToe/assets/97652328/c25e69f4-57f6-4f25-ad3c-f95346701626">
 <img width="197" alt="image" src="https://github.com/Myself-Ikram/TicTacToe/assets/97652328/65737ebe-e54a-425e-8456-e9a6e283ede9">
 
-
-
-
+## Video
+https://github.com/Myself-Ikram/TicTacToe/assets/97652328/2afc6257-8c63-472a-9834-9441d6de0300
 
 ## How to Run
 1. Clone the repository.
