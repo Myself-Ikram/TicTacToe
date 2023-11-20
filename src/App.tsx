@@ -1,11 +1,14 @@
-import { StyleSheet, Text, View } from 'react-native'
-import React from 'react'
-import AppNavigation from './navigation/AppNavigation'
+import React from "react";
+import Header from "./components/Header";
+import Body from "./components/Body";
 
-export default function App() {
+function App() {
   return (
-    <AppNavigation/>
-  )
+    <div style={{ transition: "0.5s" }}>
+      <Header />
+      <Body />
+    </div>
+  );
 }
 
-const styles = StyleSheet.create({})
+export default App;
